@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/search-ui-deploy.iml" filepath="$PROJECT_DIR$/search-ui-deploy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/search-ui-deploy.iml" filepath="$PROJECT_DIR$/.idea/search-ui-deploy.iml" />
     </modules>
   </component>
 </project>
