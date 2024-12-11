@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+https://cheng0829.github.io/Search-UI-deploy/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
